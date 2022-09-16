@@ -1,4 +1,4 @@
-# Calcualtor-C-
+# Calculator
 Basic Calculator Using Functions in C++
 
 This program is a basic caluclator which will take values of 2 integers annd will perform some basic arithmetic operators like:
